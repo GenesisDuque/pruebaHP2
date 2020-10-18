@@ -2,7 +2,7 @@
 
 int main()
 {
-    cout << "Helllo word"
+    cout << "Helllo word" << end;
 
     return 0;
 }
